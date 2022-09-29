@@ -12,6 +12,7 @@ In this project we use the following libraries:
 
 ## Dataset
 The dataset used in this project is from kaggle and is public [here].(https://www.kaggle.com/datasets/mirichoi0218/insurance)
+
 The columns labelles are as follows:
 
 * age: age of primary beneficiary
@@ -31,11 +32,17 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 
 ## Roadmap
 The aim is building a machine learning model that can predict insurance charges based on the features from the data.
+
 I obtaind the isnurance cost data from kaggle.
+
 I did some basic data analysis to better understand the data.
+
 In the data preprocessing stage, i cleaned the data to make it usable for machine learning modelling.
+
 The data was split into a training dataset and a testing dataset in a 80% to 20% proportion respectively.
+
 We fed the data into a Linear Regression model and evaluated it to check how well it perfomed.
+
 I fed new data into the model to predict the cost of insurance
 
 ## Results and Discussion
